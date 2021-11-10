@@ -5,3 +5,5 @@ This rep include projects for 4 control boards (CBs) based on Beckhoff PLCs loca
 - garage air ventilation CB;
 - garage & landscape lighting CB;
 - leakage CB: wired and wireless sensors (AJAX LeaksProtect).
+
+Made by Nikita Baranov (nikita.baranov.devops@gmail.com)
